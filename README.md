@@ -17,6 +17,9 @@
                                                       │  Live Web Dashboard       │
                                                       │  (index.html)             │
                                                       └───────────────────────────┘
+Step 0 - Download
+Downlad the cardio_an zip and unpack the files
+
 Step 1 — Set Up the Python Microservice
 Install dependencies
 ```Bash
